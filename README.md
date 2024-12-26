@@ -6,7 +6,7 @@ Este é um aplicativo de Lista de Tarefas (To-Do List) desenvolvido com React Na
 - Excluir tarefas indesejadas
 - Persistir tarefas localmente
 
-Utilizando a Context API, Hooks, e AsyncStorage, a api oferece uma experiência intuitiva e eficiente para gerenciar suas atividades diárias.
+Utilizando a Context API, Hooks, e AsyncStorage, o aplicativo oferece uma experiência intuitiva e eficiente para gerenciar suas atividades diárias.
 
 # Tecnologias Utilizadas
 
