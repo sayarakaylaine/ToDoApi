@@ -1,16 +1,18 @@
-# To-Do-Api utilizando React Native
-Este é um aplicativo de Lista de Tarefas (To-Do List) desenvolvido com React Native. Com ele, os usuários podem:
+# To-Do List API – React Native
+Um aplicativo de Lista de Tarefas (To-Do List) desenvolvido com React Native, proporcionando uma experiência fluida e eficiente para organização do dia a dia.
 
-- Adicionar novas tarefas
-- Marcar tarefas como concluídas
-- Excluir tarefas indesejadas
-- Persistir tarefas localmente
+**Funcionalidades**
 
-Utilizando a Context API, Hooks, e AsyncStorage, o aplicativo oferece uma experiência intuitiva e eficiente para gerenciar suas atividades diárias.
+* Adicionar novas tarefas
+* Marcar tarefas como concluídas
+* Excluir tarefas indesejadas
+* Persistência local das tarefas, mesmo após fechar o app
 
-# Tecnologias Utilizadas
+Utilizando Context API, Hooks e AsyncStorage, o aplicativo garante um gerenciamento de tarefas intuitivo e eficiente.
 
-- React Native
-- Context API
-- AsyncStorage
-- React Native Reanimated (para animações)
+**Tecnologias Utilizadas**
+
+* React Native – Framework para desenvolvimento mobile
+* Context API – Gerenciamento de estado global
+* AsyncStorage – Armazenamento local das tarefas
+* React Native Reanimated – Efeitos visuais e animações fluidas
